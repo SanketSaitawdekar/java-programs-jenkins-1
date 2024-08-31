@@ -7,5 +7,8 @@ public class Main{
         System.out.println("Hello");
         System.out.println("-------------------------------------");
         System.out.println("Added second line");
+
+        Student s = new Student();
+        s.sayHello();
     }
 }
