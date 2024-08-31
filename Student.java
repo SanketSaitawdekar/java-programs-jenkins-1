@@ -1,7 +1,7 @@
 public class Student{
     public Student()
     {
-        System.out.println("Creating Student object")
+        System.out.println("Creating Student object");
     }
 
     public void sayHello()
